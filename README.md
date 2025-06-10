@@ -5,9 +5,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CFC00,100:00FFFF&height=200&section=header&text=Aswin%20T&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Welcome%20to%20my%20code%20universe!&descSize=20&animation=fadeIn" alt="Header" width="100%" />
 </p>
 
-<!-- Typing SVG (stable endpoint) -->
+<!-- Typing SVG (fixed) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Aspiring+MERN+Stack+Developer;Open‑Source+Enthusiast;Coffee‑Powered+Coder+☕️" alt="Typing SVG" />
+  <a href="https://github.com/AswinT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Aspiring+MERN+Stack+Developer;Open-Source+Enthusiast;Coffee-Powered+Coder" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Badges -->
@@ -20,21 +22,13 @@
 
 <h2 align="center">🌟 About&nbsp;Me</h2>
 
-```javascript
-const Aswin = {
-  code: ["Javascript", "Typescript", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "tech", "app dev", "coffee"],
-  technologies: {
-    backEnd: {
-      js: ["Node", "Express"],
-    },
-    databases: ["MongoDB", "PostgreSQL"],
-    misc: ["Docker", "Git", "Linux"],
-  },
-  currentFocus: "Building mind‑blowing MERN projects 🚀",
-  funFact: "I build side projects faster than my coffee gets cold! ☕🔥",
-};
-```
+<ul>
+  <li>🔭 Currently building <strong>MERN</strong> side-projects to sharpen my skills.</li>
+  <li>🌱 Leveling-up with <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>GraphQL</strong>.</li>
+  <li>🤝 Always open to hackathons and open-source collaboration.</li>
+  <li>💬 Ask me about JavaScript, coffee, or the latest tech memes.</li>
+  <li>⚡ <em>Fun fact:</em> I build side-projects faster than my coffee gets cold! ☕️🔥</li>
+</ul>
 
 <h2 align="center">🛠 Tech&nbsp;Stack</h2>
 <p align="center">
@@ -56,7 +50,7 @@ const Aswin = {
   <a href="https://leetcode.com/AswinT"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
 </p>
 
-<!-- Coding GIF (lightweight & allowed) -->
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
 </p>
